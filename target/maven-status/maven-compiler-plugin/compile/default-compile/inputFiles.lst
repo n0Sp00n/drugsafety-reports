@@ -1,0 +1,9 @@
+/Users/dimi/Projects/drugsafety-reports/src/main/java/com/drugsafety/reports/dto/CreateReportRequest.java
+/Users/dimi/Projects/drugsafety-reports/src/main/java/com/drugsafety/reports/repository/SafetyReportRepository.java
+/Users/dimi/Projects/drugsafety-reports/src/main/java/com/drugsafety/reports/config/SecurityConfig.java
+/Users/dimi/Projects/drugsafety-reports/src/main/java/com/drugsafety/reports/DrugSafetyApiApplication.java
+/Users/dimi/Projects/drugsafety-reports/src/main/java/com/drugsafety/reports/model/ReportStatus.java
+/Users/dimi/Projects/drugsafety-reports/src/main/java/com/drugsafety/reports/service/SafetyReportService.java
+/Users/dimi/Projects/drugsafety-reports/src/main/java/com/drugsafety/reports/model/SafetyReport.java
+/Users/dimi/Projects/drugsafety-reports/src/main/java/com/drugsafety/reports/config/OpenApiConfig.java
+/Users/dimi/Projects/drugsafety-reports/src/main/java/com/drugsafety/reports/controller/SafetyReportController.java

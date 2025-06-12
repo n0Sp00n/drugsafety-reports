@@ -1,0 +1,26 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: drug-safety-api
+  security:
+    user:
+      name: admin
+      password: password123
+
+logging:
+  level:
+    com.drugsafety.reports: DEBUG
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+      base-path: /actuator
+  endpoint:
+    health:
+      show-details: always
+  server:
+    port: 8080
